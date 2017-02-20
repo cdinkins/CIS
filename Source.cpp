@@ -15,7 +15,7 @@ int main() {
 	int total;
 	for (num = 1; num <= size; num++)
 
-		while (num % 3 == 0 || num % 5 == 0 && num != size) {
+		while (num % 3 == 0 || num % 5 == 0 && num < size) {
 
 			cout << num << endl;
 			total = num + total;			
