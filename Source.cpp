@@ -4,7 +4,7 @@ using namespace std;
 
 //this just makes the placeholder "size" set to whatever value we want.
 //we do this so making changes to our code is easier.
-#define size 1000
+#define size 2000
 
 /*Original assignment instructions:
 
